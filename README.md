@@ -46,3 +46,5 @@ Navigating the darknet presents risks. Prioritize security, stay informed about 
 ### Disclaimer:
 
 This guide is for educational purposes only. It aims to increase understanding of darknet operations. We do not support illegal activities. Always follow your local laws.
+
+Update: Script links
