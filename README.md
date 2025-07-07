@@ -49,4 +49,6 @@ This guide is for educational purposes only. It aims to increase understanding o
 
 
 
-Update:  07/04/2025 04-25-47
+
+
+Update: Repaired dead links in configuration examples
