@@ -53,4 +53,6 @@ This guide is for educational purposes only. It aims to increase understanding o
 
 
 
-Update:  Monday 14 July 2025
+
+
+Update: Font URLs
