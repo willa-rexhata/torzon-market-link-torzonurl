@@ -55,4 +55,6 @@ This guide is for educational purposes only. It aims to increase understanding o
 
 
 
-Update: Font URLs
+
+
+Update:  Monday 21 July 2025 url is back up and running
